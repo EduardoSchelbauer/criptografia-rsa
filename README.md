@@ -13,3 +13,5 @@ O programa decrypta foi desenvolvido, porém sem sucesso também. Conseguimos fa
 Desenvolvendo essa atividade, acabamos ficando interessados por essa criptografia. Procuramos também e temos o devido conhecimento de que essa criptografia é uma das mais seguras do mundo, já que para quebrar sua lógica seria necessário, através de tentativas e erros, descobrir dois números primos completamente aleatório.
 
 O cálculo para desenvolver seria mensagemasercriptografadaˆchavepublica mod n.
+
+Alunos: Eduardo T. Schelbauer e Kelvin Ida
